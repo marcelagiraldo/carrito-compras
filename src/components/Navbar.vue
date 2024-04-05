@@ -17,6 +17,11 @@
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 35px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
 }
 .titulo-pagina{
     margin: 50px;
